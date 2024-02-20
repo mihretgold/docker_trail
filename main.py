@@ -1,4 +1,5 @@
 def fizzBuzz(n):
+    arr = []
     answer = []
     for idx in range(1, n + 1):
         if idx   % 3 == 0 and idx % 5 == 0:
