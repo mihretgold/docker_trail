@@ -1,4 +1,5 @@
-from main import fizzBuzz  # Adjust this import based on your actual file names
+from main import fizzBuzz
+
 
 def test_fizzbuzz():
     result = fizzBuzz(15)
